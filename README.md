@@ -14,6 +14,8 @@ Instructions:
             
 4) The main file (C++) is here: output file.cpp
 
+                    https://github.com/tonyache/Insight-Coding-Challenge/blob/master/output%20file.cpp
+
                                  
 
                                

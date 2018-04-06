@@ -12,7 +12,11 @@ Instructions:
 
             https://github.com/tonyache/Insight-Coding-Challenge/blob/master/output.txt
             
-4) The main file (C++) is here 
+4) The main file (C++) is here: output file.cpp
+
+                                 
+
+                               
           
            
 

@@ -16,7 +16,7 @@ Instructions:
 
                     https://github.com/tonyache/Insight-Coding-Challenge/blob/master/output%20file.cpp
 
-5) Make sure that the name of the inactivity file is precisely "inactivity.txt"                                 
+5) Make sure that the name of the inactivity file is precisely "inactivity.txt" and that it is placed in the "input" section.                                 
 
                                
           

@@ -6,6 +6,9 @@ Instructions:
 
                     https://github.com/InsightDataScience/edgar-analytics/tree/master/input/input.csv
                     
+3) The output will be written in the file output.txt
+                    
+                    
                     
 
 
